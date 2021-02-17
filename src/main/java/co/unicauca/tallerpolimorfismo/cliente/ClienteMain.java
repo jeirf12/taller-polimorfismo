@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package co.unicauca.tallerpolimorfismo.cliente;
 
 import co.unicauca.tallerpolimorfismo.modelo.*;
@@ -14,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author fallen
+ * @author Jhonfer Ruiz
  */
 public class ClienteMain {
 
